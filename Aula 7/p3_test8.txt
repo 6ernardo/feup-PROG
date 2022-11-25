@@ -1,0 +1,3 @@
+  HiNTs: YOU should UsE an  oFstrEam  object to write  
+       the output file.
+  You may use ToUpPeR to Convert characters to UPPERCASE. 

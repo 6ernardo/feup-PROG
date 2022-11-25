@@ -1,0 +1,3 @@
+To test your code download the ex3.zip        
+    archive containing the text files used in   
+       public tests (p3_test[1-5].txt). 

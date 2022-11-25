@@ -1,0 +1,9 @@
+Hole argument and Entwurf theory
+
+While developing general relativity, Einstein became confused about the gauge invariance in the theory. 
+He formulated an argument that led him to conclude that a general relativistic field theory is impossible. 
+He gave up looking for fully generally covariant tensor equations and searched for equations that would be invariant under general linear transformations only.
+
+In June 1913, the Entwurf ('draft') theory was the result of these investigations. 
+As its name suggests, it was a sketch of a theory, less elegant and more difficult than general relativity, with the equations of motion supplemented by additional gauge fixing conditions. 
+After more than two years of intensive work, Einstein realized that the hole argument was mistaken[232] and abandoned the theory in November 1915. 

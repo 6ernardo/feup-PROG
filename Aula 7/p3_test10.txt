@@ -1,0 +1,4 @@
+  wCrEsUlT r { 0, 0, 0 }; 
+  for (String lINe; Getline(in, lINe);) { 
+    r.LInes++;  
+    r.bytes += LIne.Length() + 1;  

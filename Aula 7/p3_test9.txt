@@ -1,0 +1,5 @@
+  {
+    wcresult r = wc("p2_test6.txt");
+     cout << r.lines << ' ' << r.words << ' ' << r.bytes << '\n';  
+  } // -> 1 14 94 // -> 14 74 419    
+ 

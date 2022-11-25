@@ -1,0 +1,4 @@
+{
+WCRESULT R = WC("P2_TEST6.TXT");
+COUT << R.LINES << ' ' << R.WORDS << ' ' << R.BYTES << '\N';
+} // -> 1 14 94 // -> 14 74 419
