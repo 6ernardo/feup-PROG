@@ -1,3 +1,3 @@
 # feup-PROG
 
-Resolução dos exercicios práticos semanais de Programação.
+Repository containing solved exercises from the Programming course unit at FEUP.
